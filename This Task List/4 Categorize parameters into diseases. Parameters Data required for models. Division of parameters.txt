@@ -1,0 +1,30 @@
+The division of parameters into diseases (so as not to fill out a canvas of parameters by hand, as now), but to choose a disease and fill in 10-15 parameters necessary for the analysis of this particular disease there .
+ Well, if the client wants to analyze all the diseases with us, then he will fill those that were not filled up
+
+Also please note, that besides division of parameters to diseases, there should be a symptoms division to diseases. More info: https://trello.com/c/UZ0RSZcL
+
+
+Link to update parameters needed to measure & predict diseases (early stages):
+https://docs.google.com/document/d/1UUcLZPKAwhLQ99DLRG8fFVahP040WJIM/edit?usp=sharing&ouid=101603866171315549363&rtpof=true&sd=true
+
+Need to think about how to structure all these groups of parameters inside the mobile application, because until the moment of import from the laboratory of blood tests outcomes, it all needs to be entered with your hands, 
+and it will be so boring, so you need to think about how to do it, for example, by selecting diseases (a menu with a list of 20 diseases that the client wants to analyze risks and get recommendations ), clicking opens lists of parameters of this disease. If there are the same parameters for different diseases, they are filled in everywhere at once.
+
+
+We are solving 2 tasks here:
+1. Data from users (by hand or import from the laboratory)
+2. Data from clinics
+
+You look "under the soot", and I look "at the window". As a result, you and I need two blocks of data: any from users (which can also be accurate) relevant to diseases 
+
+And
+
+Accurate data from clinics for the correctness of models
+
+And of course the goal of the entire development is to make sure that the data from users is correct. We need to explain users that + make technical requirements for data input with less risk of having mistakes 
+
+
+This data should be a little bit more explained for users 
+1. Where they can get this data from (vein or finger blood, urine)
+2. Can they take it from lab, remotely with nurse & etc
+3. The main thing - few words on the parameter for the user, what it stands for

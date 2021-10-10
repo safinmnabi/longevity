@@ -1,0 +1,29 @@
+Description
+
+
+Previous name of the task: Subscription plans.
+
+In this task, we discuss everything related to what and how we can sell inside our app.
+
+This is another task and has nothing to do with current task: Today we have the same rate for all countries. But a good point, to make it 0,50$ for Africa, 1$ for Asia, and other rates for other countries. And make the price rating depending on countries.
+
+Also note this www.longevitycoin.org
+Google Drive
+https://docs.google.com/document/d/1er_3nfHy9cLHWM70VOmqQ3PVc85GoDwX6b3w1mNI1wo/edit
+
+Access your Drive files for a project directly from its card, or create and attach new Drive files to a card.
+
+
+
+Types of in app monetization. Placed in priority order.
+
+Monthly subscription, customized on countries economical situation. Use this user-friendly approach: "Keep all what was paid for before subscription ends. After your subscription ends you can keep all data provided for yo & you can still store your updating historical quality of life data in your current Digital BioBank Account. But for new risks assessment report due to changes of your parameters & personalized recommendations how to avoid potential risks, please subscribe".
+Pay per recommendation (some parameter changed and the user pays to update his recommendations). The initial price should be X times lower than going to therapist in each country and should reflect countries economical situation, e.g. cheapest Sudan 0,5$ per recommendation, expensive - Japan 12$. Use this user-friendly approach: "Keep all what was paid for before subscription ends. After your subscription ends you can keep all data provided for yo & you can still store your updating historical quality of life data in your current Digital BioBank Account. But for new risks assessment report due to changes of your parameters & personalized recommendations how to avoid potential risks, please subscribe".
+Pay to get recommendations from our Marketplace customers (B2B clients which offer services a bit like we do, e.g. Ada Health. Explanation slide:
+Purchase Coins www.LongevityCoin.org
+Purchase goods in Shop
+Support non profit foundations
+Purchase Resort services from www.LongevityScientificResort.com
+Pay to send a weekly report to a doctor on one of the platforms (do doc.ru, doc.ua, etc.).
+Pay to send reports to your doctor whenever you want.
+Pay to connect our app to other health apps such as Google Fit, Samsung Health, Xiaomi Health, etc., and to get better health tracking.

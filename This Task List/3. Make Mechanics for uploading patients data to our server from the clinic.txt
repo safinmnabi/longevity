@@ -1,0 +1,63 @@
+Patients data can be in pdf, excel, csv, other formats
+
+Patients data could be in text & images
+
+Patients data has different formats in each country, has different language
+
+Has different health values
+
+All this data should be downloaded to the backend server of our company from clinic. 
+
+Clinic should have some sort of plugin, software or just web application form with private access, to which it can download easily 
+
+After downloading the downloaded data should go to the relevant directories. 
+
+Directories could be: 
+a) diseases based (heart attack, stroke, diabetes & etc)
+b) parameters (biomarkers) based (cholesterol, glucose, heartrate, blood pressure & etc)
+
+This data should autofill (if it has the same parameters windows  for autofill) into users mobile application account of BMI Disease Tracker application (Google Play), please download to see to which parts of users data it should fall in. And to make automated new lines of new windows, if the parameters are new to mobile application parameters list
+
+
+More details:
+Statement: 
+On clinic side, there is an option to select the country, language, and disease.
+Then upload file and on the backend depend on the file extension the files are saved.
+
+Assumption: Assume that country, disease, language to be selected only from dropdown.
+
+Answer:  Yes, and need to have all processes to be automated, so the imported data would be stored in local databases & categorized by:
+
+a) diseases
+b) parameters
+c) symptoms (let's add it) - this can be stored in separate local base for "description of medical profile" - this is the section of medical profile, where the comments from doctor on the state of health of patient (can be in hand writing form or printed) and then with computer vision methods (for handwriting part) we will recognize this data and will structure it additionally
+
+Then the data from a) & b) should be automatically stored in local databases and uploaded automatically to mobile app / web account of the user filling all windows for parameter input (today it is manual if refers to blood and other lab test data, which obviously can't be taken from gadgets today).
+If there are parameters which do not yet have special windows in the mobile /web account, the windows should be generated & filled with data values automatically
+
+Afterwards all this data should be analyzed by proprietary methods for making personalized risks assessments report & recommendation report to avoid such risks (this part is another task, not for now)
+
+Also note other tasks which are relevant to the current (like number 4 - categorization of parameters by diseases - which is important to know at this stage)
+
+Country, language & etc - can be a dropdown on the clinic side, however should be both options, that clinician just downloads the file to our server thru his account in our web application (this part of doctors access should be developed) & the rest would be done automatically by the script we develop. In another words, doctors must have less iterations, just enter the account and upload file and that's it
+
+More details:
+
+Question:
+Is there any case of one country have multiple languages?
+For example: In Pakistan, clinic need to upload reports in multiple language.
+
+Answer:
+Yes let's have this option too
+
+Other assumptions:
+In some cases, patients have multiple diseases and can be multiple parameters as well so do we need to store it in all folders?
+
+For example:- patient1 having heart attack and with the parameters of cholesterol, blood pressure etc.
+So in this case if we make a directory Disease, Parameters.
+So in this case the file to be stored in all folders where there are same parameters.
+
+You can also use Figma file to see the screen designs:
+https://www.figma.com/file/vIV1DEvIYlPgZ7WAMvxRjs/For-Share?node-id=0%3A1 
+
+Frontend, Mobile developments should be prepared for receiving from backend parameters data

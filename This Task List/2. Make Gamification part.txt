@@ -1,0 +1,45 @@
+Description
+Edit
+
+Basic idea is here:
+https://docs.google.com/document/d/1kxbFglsl8Ux8rxOT1xl7qhiMWJHXfC9AT1ANLOp21hk/edit
+
+Part of initial idea:
+Make rewards for any move inside app &
+
+If a recommendation is shown, there should be a way to create a goal to work on that recommendation. So if it is recommended that you should walk 8000 steps daily, then the user should be able to create a goal and work on it, track it, get encouragement to complete it daily.
+
+Add notification features from the recommendations (like:
+Time to drink water
+Take pill
+Walk
+Switch off the light 1 hour before the sleep
+Recommended food
+etc
+
+
+List of Rewards for every action. Make lists of actions and type of rewards
+
+
+Free subscription for 1,2,3,4,5,6,7,8,9,10,11,12 months
+Free package of recommendations, more in this task: (2a. Types in app monetization, incl, Marketplace implementation). Rewards could be based on the amount of recommendations. Like package of 10 recommendations
+Use the idea of giving away LONG tokens for reaching the goals. 1 LONG for 1 day using app. Yes today LONG token is cheap, but one day could be x10-30 more
+LONG tokens could be automatically dropped thru Airdrop. Automated way to airdrop coins once app rewards users for reaching any goal
+Giveaway LONG for minimizing risks of your sickness & possible death. Let's make people get money for their longer living. Just imagine how we can change the world with this. "We pay you for your living"
+Subscription to app reward
+Filling all data after registration
+Comment in mobile store award
+Subscription to each out of 15 social networks reward. 1 reward for 1 social network. More rewards for new users of social network
+reward for any post in any our social networks. More posts in more social networks more rewards
+Bring a friend reward
+Post in your social network reward
+Reward for your friends post in his social network. Continue this Multi Level Marketing of rewards
+Please continue
+
+
+List of notification
+
+
+
+For each reward listed above to make a relevant notification
+Make notification alerts which pop up if the health conditions changes due to changes of parameters (have nothing to do with rewards)

@@ -1,0 +1,20 @@
+In the document should be top 20 diseases based on WHO rating & charts of changes of biomarkers values for the whole supervision time of the patient / disease history.
+
+This is FYI to help to make the task on Categorization of parameters
+
+
+
+Make table of top 20 diseases divided by biomarkers
+Add into table symptoms of top 20 diseases (to be divided by symptoms)
+Add column with list of parameters (name of parameters) needed to diagnose each disease
+Add column with amount (number) of parameters needed to diagnose
+Add 1 sentence description what each parameter for
+Add links to the models in Gitlab responsible for predicting diseases due to changes of values of parameters
+Add column with % of accuracy of each working model
+Add responsible for the model team mate
+Add column with information on the average values of biomarkers, what is marker used for diagnostics, for what is responsible in the body
+Add links to risks & recommendations to each model into the table & into this folder:
+Add links to evidence based articles from primary articles proving our texts
+
+https://drive.google.com/drive/folders/16wZDwhjr56YYyw6e90FrXydcGp-YSNHA
+
