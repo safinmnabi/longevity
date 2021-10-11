@@ -61,3 +61,7 @@ BPF 1: when user's blood pressure has 90/60mmHg higher and 120/80mmHg lower as I
 
 Note: It is first task is completed out of 5 tasks and It is sample/test task for reviewer board. i will carry on remaining of tasks until further notice from reviewer board.  
 
+Task for 2 and 2a:
+This task where I developed Subscriptin package, reward and purchase sustem.
+
+For 
