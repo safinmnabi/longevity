@@ -100,3 +100,12 @@ This parameters are
 3. userid - James
 
 
+
+Task 3 - For uploading patient data into server directory and into database
+
+Here is picture for uploading file
+
+![longevity](https://user-images.githubusercontent.com/53641071/136802100-029a170c-b80f-4dd5-9134-fed05eb26333.png)
+ That means you can upload any file to store in server
+
+
