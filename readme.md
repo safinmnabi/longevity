@@ -107,5 +107,7 @@ Here is picture for uploading file
 
 ![longevity](https://user-images.githubusercontent.com/53641071/136802100-029a170c-b80f-4dd5-9134-fed05eb26333.png)
  That means you can upload any file to store in server
+ 
+ Note: only CSV or Excel file will support for creating or updating database into server for retrieveing patient
 
 
