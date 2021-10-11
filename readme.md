@@ -77,5 +77,26 @@ Here is link address to use Postman
 
 Suppose James is an USer/Client who is new, has 100 Coin, from Poland which cost 2 doller per recommendation and expire will be 30 days. these parameter are included there (Postman pIcture above)
 
+For getting reward and coin, the user who have to pay and to complete challange. So this pictures are given below
+
+![longevity](https://user-images.githubusercontent.com/53641071/136799584-be29d55b-1971-4e4a-8403-3336264a1007.png)
+
+For example, James got 10 coin to use daily app 
+
+This parameters are 
+1. r_amt - Reward point
+2. r_type- Daily app, Complete challange etc
+3. userid - James
+
+For paying a product user who amount of coin will consume
+
+![longevity](https://user-images.githubusercontent.com/53641071/136800601-76c91c72-37a6-43c4-a533-f46a31247072.png)
+
+To buy a food product which cost 10 coin will be consumed by user
+
+This parameters are 
+1. p_amt - Amount coin to purchase
+2. p_type- Food product
+3. userid - James
 
 
