@@ -109,5 +109,21 @@ Here is picture for uploading file
  That means you can upload any file to store in server directory file.
  
  Note: only CSV or Excel file will support for creating or updating database into server for retrieveing patient data with different model.
+ 
+ 
+ 
+ Task 4 - Table with different Disease models 
+
+This task has 20 disease model for disagnosed pathology and 5 disease model for requirement with parameter where user(Lab, Clinic) can analyze selecting diseases to send the informatin to patiend's data.
+
+![longevity](https://user-images.githubusercontent.com/53641071/136810609-817720c8-a9d3-4617-bf3a-a679848a063a.png)
+
+
+From above means that user will select disease out of 20 disease which name is Diabetes will fill up parameter's value to submit form data will send into databse and mobile applicatants who will get info.
+
+
+Task 5 - Above all of the task are developed into API marketplace.
+
+Note: without clear marketplace website or mobile app that would be difficult to place it. If finally app/webiste has been done clearly that will be better to build API marketplace perfectly. 
 
 
