@@ -64,4 +64,18 @@ Note: It is first task is completed out of 5 tasks and It is sample/test task fo
 Task for 2 and 2a:
 This task where I developed Subscriptin package, reward and purchase sustem.
 
-For 
+For buying subscription there are thre package name are: 
+1. Free
+2. Subscription
+3. Pay Per change
+
+User/Client who is new for registering so he/she will get free trial for one month (30 days). After expiring 30 dyas he/she will have to pay subscription package.
+
+Here is link address to use Postman
+
+![longevity](https://user-images.githubusercontent.com/53641071/136798321-360413a9-d3e6-4187-98fc-40d6b73e840b.png)
+
+Suppose James is an USer/Client who is new, has 100 Coin, from Poland which cost 2 doller per recommendation and expire will be 30 days. these parameter are included there (Postman pIcture above)
+
+
+
